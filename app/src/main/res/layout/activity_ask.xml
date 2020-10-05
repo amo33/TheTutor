@@ -23,7 +23,7 @@
             android:orientation="horizontal">
 
             <Space
-                android:layout_width="20dp"
+                android:layout_width="40dp"
                 android:layout_height="match_parent" />
 
             <ImageButton
